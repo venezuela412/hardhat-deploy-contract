@@ -7,7 +7,7 @@ Feel free donate to my EVM address
 EVM :
 
 ```bash
-0x9902C3A98Df4b240ad5496cC26F89bAb8058f4aE
+0xd304D6028e5C3e235A43De2005AF563914A2Cd22
 ```
 
 ## Steps
@@ -108,8 +108,8 @@ npm run set-message
 - push this project to your github and paste your repository link in testnet dashboard
 
 by :
-github : [Mnuralim](https://github.com/Mnuralim)
-twitter : @Izzycracker04
-telegram : @fitriay19
+github : (https://github.com/venezuela412)
+twitter : @cryptorell
+telegram : @criptoairdrops
 
 //0xf1f0C7Bf19ee4E196C0213cEE1002e9a5fadff62//
